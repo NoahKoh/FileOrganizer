@@ -28,3 +28,15 @@ Facing this mess, I took it upon myself to build a file organizer with the funct
 ## Configuration
 - Use the “Configure” button to customize file categories and extensions.
 - You can export and import configurations using JSON files.
+
+## Images
+![photo_2024-12-09_13-37-28](https://github.com/user-attachments/assets/d87cc986-a43d-4320-836b-4dbfbe92c99d) <br>
+*Main Page*
+<br><br>
+![photo_2024-12-09_13-38-07](https://github.com/user-attachments/assets/1957ca26-c669-4221-9e20-bb90b3f24387) <br>
+*Information Page*
+<br><br>
+![photo_2024-12-09_13-38-33](https://github.com/user-attachments/assets/1b1eeace-cace-44d5-886e-de2759012735) <br>
+*Configuration Page*
+
+
